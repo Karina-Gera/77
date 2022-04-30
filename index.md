@@ -1,4 +1,4 @@
-## Welcome to GitHub AULA
+## Bem-vindo a nossa aula de marketing digital
 
 You can use the [editor on GitHub](https://github.com/Karina-Gera/77/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
